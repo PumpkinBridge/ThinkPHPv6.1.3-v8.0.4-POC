@@ -110,3 +110,5 @@ echo urlencode(serialize($r));
 ![图片](https://github.com/user-attachments/assets/ee5ff49f-0710-4b47-b9de-c949acbd15f0)
 
 
+# 注明
+POC均来自互联网，仅供交流学习使用
