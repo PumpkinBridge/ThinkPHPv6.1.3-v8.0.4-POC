@@ -107,5 +107,6 @@ echo urlencode(serialize($r));
 ```
 
 使用 payload 反序列化可以导致 RCE:
+![图片](https://github.com/user-attachments/assets/ee5ff49f-0710-4b47-b9de-c949acbd15f0)
 
-![image-20240905234416317](CVE-2024-44902.assets/result.png)
+
